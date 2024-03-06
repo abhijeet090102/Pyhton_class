@@ -24,6 +24,8 @@ r.setlength()
 r.putdata()
 
 '''
+
+
 '''# constructor
 class rectangle:
     def __init__(self,l,b):
@@ -47,6 +49,8 @@ r2.setlenbread()
 r1.area()
 r2.area()
 '''
+
+
 '''# destructur
 class rectangle:
     count = 0
